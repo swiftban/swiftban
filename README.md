@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm swiftban</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftban&label=Profile%20views&color=0e75b6&style=flat" alt="swiftban" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/c9e4c0071bb463602e882f5e4063c3c5a77e79fb3d42b73cfed57bc0e2b36a9b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726168756c646b6a61696e" alt="swiftban" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swiftban" alt="swiftban" /></a> </p>
 
